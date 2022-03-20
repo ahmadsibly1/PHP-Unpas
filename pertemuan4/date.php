@@ -18,4 +18,7 @@
 // membuat sendiri detik
 // mktime(0,0,0,0,0,0,)
 // format urutan 0 ny adalah : jam, menit, detik, bulan, tanggal, tahun
-echo date("l", mktime(0, 0, 0, 3, 10, 1995));
+// echo date("l", mktime(0, 0, 0, 3, 10, 1995));
+
+
+// strtotime : kebalikan dari mk time
